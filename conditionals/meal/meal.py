@@ -23,7 +23,6 @@ if __name__ == "__main__":
     #hours, minutes = time.split(":")
     #convert(hours, minutes)
 
-
 #def convert(hours, minutes):
     #floatHours = float(hours)
     #decimalMinutes = float(minutes) / 60
@@ -35,7 +34,6 @@ if __name__ == "__main__":
         #answer("lunch")
     #elif 18.0 <= addTime <= 19.0:
         #answer("dinner")
-
 
 #def answer(mealTime):
     #print(mealTime, "time")
