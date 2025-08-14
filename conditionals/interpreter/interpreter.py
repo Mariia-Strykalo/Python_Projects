@@ -4,7 +4,7 @@ def main():
     x, y, z = expression.split(" ")
     print(calculate(x, y, z))
 
-def calculate(a, b=1, c=2):
+def calculate(a, b, c):
     a1 = float(a)
     c1 = float(c)
 
