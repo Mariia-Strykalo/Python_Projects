@@ -40,4 +40,4 @@ vowels = "AEIOUaeiou"
 table = str.maketrans('', '', vowels)
 result = full_word.translate(table)
 
-print(f"Output: {word}")
+print(f"Output: {result}")
