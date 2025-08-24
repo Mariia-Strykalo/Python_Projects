@@ -30,7 +30,7 @@ print()
 
 
 
-#3. Output nombers from 1 to 10 TODO
+#3. Output numbers from 1 to 10 TODO
 
 
 #option 1
