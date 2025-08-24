@@ -10,7 +10,7 @@ print()
 
 
 
-#2. Summarize all numbers fron 1 to 100 
+#2. Summarize all numbers from 1 to 100 
 
 
 #option 1
