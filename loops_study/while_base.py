@@ -10,7 +10,9 @@ print()
 
 #2. Summarize all numbers fron 1 to 100 
 
+
 #option 1
+
 #i = 1
 #total = 0
 #while i <= 100:
@@ -19,6 +21,7 @@ print()
 #print(total)
 
 #option 2
+
 #start = 1
 #end = 100
 #sum = 
@@ -32,7 +35,8 @@ print()
 
 #3. Output nombers fron 1 to 10 
 
+
 #i = 1
-#while i <=10:
+#while i <= 10:
     #print(i)
     #i = i + 1
