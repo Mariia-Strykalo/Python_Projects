@@ -1,4 +1,6 @@
-#3. Output each letter in a word
+#1. Output each letter in a word
+
+
 word = "Groceries"
 index = 0
 while index < len(word):
