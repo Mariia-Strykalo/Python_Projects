@@ -35,7 +35,7 @@ print()
 
 
 
-#3. Output nombers fron 1 to 10 
+#3. Output nombers from 1 to 10 
 
 
 #i = 1
