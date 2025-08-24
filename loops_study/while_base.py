@@ -26,7 +26,7 @@ print()
 
 #start = 1
 #end = 100
-#sum = 
+#sum = 0
 #beginning = start
 #while beginning <= end:
     #sum = sum + beginning
