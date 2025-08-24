@@ -8,7 +8,7 @@ print()
 
 
 
-#2. Summarize all numbers from 1 to 100 TODO
+#2. Summarize all numbers from 1 to 100
 
 
 #option 1
@@ -30,7 +30,7 @@ print()
 
 
 
-#3. Output numbers from 1 to 10 TODO
+#3. Output numbers from 1 to 10 
 
 
 #option 1
