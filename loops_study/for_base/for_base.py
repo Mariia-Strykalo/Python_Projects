@@ -1,4 +1,4 @@
-#1. Output each letter in a word
+#1. Output each letter of the word
 
 
 word = "Groceries"
