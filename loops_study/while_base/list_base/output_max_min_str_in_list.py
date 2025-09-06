@@ -5,7 +5,7 @@ min_length = float('inf')
 shortest_word = None
 
 
-while len(princesses) > index:
+while index < len(princesses):
         any_string = princesses[index]
         if min_length > len(any_string):
             min_length = len(any_string)
